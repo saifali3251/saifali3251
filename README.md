@@ -1,9 +1,8 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=saifali3251)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👋 Hi, I’m Saif Ali
-- 👀 I’m interested in Coding, BackEnd frameworks and Python Automations
-- 🌱 I’m currently learning React and Django Rest Framework
-- 💞️ I’m looking to collaborate on Python Automation and API development
+- 👋 Hi, I’m currently working at TCS digital
+- 👀 I’m interested in BackEnd frameworks, API and Python Automations
+- 🌱 I’m currently learning React framework
+- 💞 I’m looking to collaborate on Python Automation and API development
 
 <!---
 saifali3251/saifali3251 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
