@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m currently working at TCS digital
 - 👀 I’m interested in **Django, FastAPI, API development, React** and **Python Automation**
-- 🌱 I’m currently learning **AWS**
+- 🌱 **DevOps** is something I am actively working to learn
 - 💞 I’m looking to collaborate on **Python Automation** and **API development**
 
 
